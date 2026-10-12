@@ -3,6 +3,8 @@
 **VeriCite** is a fact-verification system evaluated on the FEVER benchmark that checks factual claims against Wikipedia pages and returns verifiable verdicts (`SUPPORTS`, `REFUTES`, `NOT ENOUGH INFO`) with **exact sentence-level citations**.
 
 ---
+# Hosted Link
+https://huggingface.co/spaces/Niyati26/vericite
 
 ## 🔬 Core Contribution: Retrieval vs. Reasoning Error Breakdown
 
